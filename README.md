@@ -34,3 +34,9 @@ The current work system for managing project type courses at our university is m
  Professors can efficiently review and manage student applications within the system,
  streamlining the evaluation process. The system will also provide notifications and alerts to
  ensure timely responses and updates for both parties.
+
+ Access the Live Link from here:
+ ```sh
+ https://project-bridge-pju05uuv8-aditya-abhirams-projects.vercel.app/
+```
+If you are a Professor, login through a normal gmail account. If you are a student at BITS Hyderabad, login through a BITS gmail account.
